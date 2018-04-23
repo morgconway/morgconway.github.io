@@ -1,0 +1,10 @@
+---
+title: "Hello World"
+author: Morgan Conway
+date: '2018-04-23'
+slug: hello-world-rmd
+categories: ["Updates"]
+tags: ["Hello", "World", "First"]
+---
+
+This is my new personal site and blog. This is built through the blogdown R package, and published through GitHub Pages. I will be using this to post updates, thoughts, and photos of my cats.
